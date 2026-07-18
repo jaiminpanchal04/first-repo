@@ -1,0 +1,45 @@
+session -1 
+1 . Name 5 IT job roles and write one line about what each role does.?
+ANS = 
+ Name = Web Developer , Tester , UI-UX designer , SOC , Network Engineer 
+ 1.Web developer = a web developer main  role is a  cerate a website  for the client  purpose 
+ 2.Tester = a tester roll is a Check the web developer cerate website before deploy website
+ 3.UI-UX designer = a UI-UX designer roll  a fronted code example website a main page requirement = login , about,
+ 4.SOC = A SOC( Security Operations Center ) roll is a monitoring, detecting, and responding  organization’s systems and data.
+ 5.Network Engineer = A Network Engineer Designs, configures, and maintains an computer networks connectivity between systems and users.
+
+2. List 3 product companies and 3 service companies with one example of work each does.?
+ANS = 
+ * product companies = ZOOM , NVIDIA, Intel
+    1.zoom   = A zoom is a video-conferencing software used for online meetings, webinars, and virtual events.
+    2.NVIDIA = A NVIDIA is a developing a  Graphics Designs cards and AI chips.
+    3.Intel  = A Intel is a developing the  Designs and manufactures computer processors.
+ 
+* service companies = TCS , Wipro , SBI
+   1.TCS   = A TCS is the provides IT services, software development, and business solutions for companies .
+   2.Wipro = A Wipro is software development and cloud services .
+   3.SBI   = A SBI is a Banking and financial services.
+
+3.Write the full forms and one-line use of: GitHub, Slack, Jira, IDE, API.?
+ANS = 
+ 1.GitHub = A Git + Hub a platform used to store, manage ,and collaborate on code projects.
+ 2.Slack  = A Slack it's a brand name used for team communication and collaboration.
+ 3.Jira   = A Jira it's a brand name used to track tasks ,bugs ,and software projects.
+ 4.IDE    = A IDE stand for integrated Development Environment used to write , edit , Run ,and debug computer programs .
+ 5.API    = A API stand for Application Programming Interface used to allow different software applications to communicate .
+
+4.Name any 5 programming languages and mention one popular use case for each.?
+ANS = 
+ * A 5 programming languages is a python , java , C++ , PHP , Lua
+   1.python = A use case is Data science , AI and Web Development.
+   2.java   = A use case is Android app development .
+   3.C++    = A use case is Game development.
+   4.PHP    = A use case is Server- side web development  
+   5.Lua    = A use case is Game scripting.
+
+5.What is the difference between a developer and a tester? Answer in 2 lines.?
+ANS = 
+ * A difference between developer & tester.
+   1.Developer =  A developer writes and builds software applications by creating and maintaining code.
+   2.Tester    = A Tester checks the software for bugs, verifies functionality, and ensures it works correctly before deploying.
+ 
