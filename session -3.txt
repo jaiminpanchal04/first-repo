@@ -1,0 +1,38 @@
+session -3
+1.Write the full form and one-line use of: HTTP, HTTPS, FTP, SMTP?
+ANS= 
+ 1.HTTP = Hypertext Transfer protocol. they are used to transfer web pages and a web browser and web server.
+ 2.HTTPS = Hypertext Transfer protocol Secure .they are used to securely transfer web pages by encrypting the data.
+ 3.FTP = File Transfer Protocol. they are used to upload and download file computer over a network 
+ 4.SMTP = Simple Mail Transfer Protocol. they are used to send emails from one mail server.
+ 
+2.What is the difference between IPv4 and IPv6? Answer in 2 lines?
+ANS =
+ 1.IPv4 = A IPv4 uses a 32-bit numeric addresses (ex.-192.168.1.1)and they are 4.3 billion unique address 
+ 2.IPv6 = A IPv6 uses a 128-bit alphanumeric addresses (ex.2001:0120:db8:1),offering an larger space plus more features for routing and security.
+ 
+3.Run ns lookup google.com on your system and write down the IP address you get?
+ANS= 
+ step-1 open the command prompt.(CMD)
+ step-2 add command  nslookup google.com
+ step-3 show the result
+ output : Name :      google.com
+        : Addresses : 10.117.201.230
+
+4.What do these HTTP status codes mean: 200, 301, 404, 500, 403?
+ANS = 
+ A explain the HTTP status code
+ 1.200 = 200 (OK) : the standard response for a successful HTTP request.
+ 2.301 = 301 (moved permanently) : The resource has a new permanent URL.
+ 3.404 = 404 (Not Found) : The server cannot find the requested resource or matching URL.
+ 4.500 = 500 (internal server error) : A generic error occurred on the server side.
+ 5.403 = 403 (Forbidden) : The server understands who you are, but you do not have permission. 
+
+5.Explain DNS hierarchy (root, TLD, domain, subdomain) with www.google.com as an example?
+ANS = 
+ A DNS(Domain Name System) Hierarchy is the system that translates domain name into IP addresses.
+1.ROOT =(.) The top level of the DNS hierarchy a directs the request to the correct Top-level Domain(TLD) server.
+2.TLD = (.COM) is the TLD. it point to the server responsible for the google.com domain.
+3.Domain = (google.com) is the domain name. it identifies Google's website.
+4.Subdomain = (www) www is the subdomain.it refers to a specific service or host within the google.com domain
+ 
