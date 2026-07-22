@@ -1,0 +1,11 @@
+session -4 
+
+1.List all 6 phases of SDLC in order with one line about each?
+ANS = 
+ The 5 phase of SDLC IN order are : Requirement Gathering ,software  design, development, testing, deployment, maintenance.
+  1. Requirement Gathering : A define the problem, scope, goal and risks .
+  2. software Design : A create the system blueprint, architecture, and technical approach.
+  3. Development : A write the actual code and build the features.
+  4. Testing : A check for bugs and verify the software works as expected.
+  5. Deployment : A release the software to users and production.
+  6. maintenance : monitoring, fix issues, and improve the system after release.
